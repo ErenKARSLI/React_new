@@ -1,11 +1,8 @@
-
-
+import W01 from "./w01/w01"
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-       Merhaba
-      </header>
+      <W01/>
     </div>
   );
 }
